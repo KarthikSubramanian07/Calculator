@@ -41,7 +41,7 @@ def main():
     # setting the title of GUI window
     window.title("Calculator")
     # set the configuration of GUI window
-    window.geometry("325x175")
+    window.geometry("390x200")
     # varible class instantiation
     equation = StringVar()
     # input field for the expression
